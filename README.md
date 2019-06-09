@@ -23,3 +23,20 @@
 	4. What is the efficiency, complexity in terms of runtime, space used?
 		1. To be filled
 	
+### For later consideration
+---------------------------
+1. Implementation of a hashtable using only arrays in Python
+2. O() of hashtables and maps in Python
+3. NP-complete problems
+4. Trees:
+	- [ ] Trie-trees
+	- [ ] n-ary trees
+	1. One of the balanced binary trees:
+		- [ ] Red/Black tree
+		- [ ] Splay tree
+		- [ ] AVL tree
+5. Min/Max Heaps
+	1. Application
+	2. O() characteristics
+	3. - [ ] Implementation (optional)
+
