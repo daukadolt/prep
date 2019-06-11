@@ -7,7 +7,7 @@
 	- [x] Implement traverse data structures
 2. Algorithms
 	- [ ] Big-O
-	- [ ] Hashing
+	- [x] Hashing
 	- [ ] Handling obscenely large amounts of data
 3. Sorting
 	1. At least one O(nlgn) sorting algorithm
